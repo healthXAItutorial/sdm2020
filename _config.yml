@@ -9,3 +9,6 @@ include:
   - COPYING.md
 
 theme: jekyll-theme-tactile
+
+name: something
+title: null
