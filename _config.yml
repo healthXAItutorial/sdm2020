@@ -8,7 +8,7 @@ include:
   - LICENSE.md
   - COPYING.md
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 
 name: something
 title: null
