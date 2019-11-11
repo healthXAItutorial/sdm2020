@@ -3,6 +3,11 @@
 
 ## Goal
 
+The primary goal of this tutorial is to acknowledge the
+many aspects/dimensions to explainability and review
+the appropriate choices that depend on the persona of
+the consumer of the explanation
+
 ## Description
 
 In recent years, the rapid advances in Artificial Intelligence (AI)
