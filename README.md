@@ -36,6 +36,7 @@ Source Toolkit.
 * [Prithwish Chakraborty](https://prithwi.github.io), Center for Computational Health, IBM Research, USA
 * [Bum Chul Kwon](https://bckwon.com), Center for Computational Health, IBM Research, USA 
 * Sanjoy Dey, Center for Computational Health, IBM Research, USA 
+* Kush Varshney, IBM Research AI, USA
 * Kenney Ng, Center for Computational Health, IBM Research, USA 
 * Daby Sow, Center for Computational Health, IBM Research, USA 
 
